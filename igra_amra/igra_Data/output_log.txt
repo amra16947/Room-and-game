@@ -1,0 +1,1509 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics (ID=0x102)
+    Vendor:   Intel
+    VRAM:     1632 MB
+    Driver:   9.17.10.4229
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ETF-LAB-1-11\Desktop\AmraMujcinovic16947\igra_amra\igra_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ETF-LAB-1-11\Desktop\AmraMujcinovic16947\igra_amra\igra_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ETF-LAB-1-11\Desktop\AmraMujcinovic16947\igra_amra\igra_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\ETF-LAB-1-11\Desktop\AmraMujcinovic16947\igra_amra\igra_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\ETF-LAB-1-11\Desktop\AmraMujcinovic16947\igra_amra\igra_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ETF-LAB-1-11\Desktop\AmraMujcinovic16947\igra_amra\igra_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ETF-LAB-1-11\Desktop\AmraMujcinovic16947\igra_amra\igra_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\ETF-LAB-1-11\Desktop\AmraMujcinovic16947\igra_amra\igra_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\ETF-LAB-1-11\Desktop\AmraMujcinovic16947\igra_amra\igra_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ETF-LAB-1-11\Desktop\AmraMujcinovic16947\igra_amra\igra_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\ETF-LAB-1-11\Desktop\AmraMujcinovic16947\igra_amra\igra_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\ETF-LAB-1-11\Desktop\AmraMujcinovic16947\igra_amra\igra_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\ETF-LAB-1-11\Desktop\AmraMujcinovic16947\igra_amra\igra_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\ETF-LAB-1-11\Desktop\AmraMujcinovic16947\igra_amra\igra_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: C:\Users\ETF-LAB-1-11\Desktop\AmraMujcinovic16947\igra_amra\igra_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\ETF-LAB-1-11\Desktop\AmraMujcinovic16947\igra_amra\igra_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.091388 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1238 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.659191 ms
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 498)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 775.
+Total: 0.330410 ms (FindLiveObjects: 0.056282 ms CreateObjectMapping: 0.048667 ms MarkObjects: 0.217183 ms  DeleteObjects: 0.007945 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at menuscript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+164     False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+181     False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+201     False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+201     False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+206     False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+217     False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+218     False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+241     False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle (UnityEngine.Object,UnityEngine.Vector3&,UnityEngine.Quaternion&)
+  at UnityEngine.Object.Internal_InstantiateSingle (UnityEngine.Object data, Vector3 pos, Quaternion rot) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate[Renderer] (UnityEngine.Renderer original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at jednabomba.generisiBombu () [0x00000] in <filename unknown>:0 
+  at jednabomba.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+243     False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+268     False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+298     False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.821061 ms
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 4.796918 ms (FindLiveObjects: 0.036086 ms CreateObjectMapping: 0.047343 ms MarkObjects: 0.319816 ms  DeleteObjects: 4.393008 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.250794 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 0.351599 ms (FindLiveObjects: 0.030789 ms CreateObjectMapping: 0.016553 ms MarkObjects: 0.298296 ms  DeleteObjects: 0.005628 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.557858 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 0.384375 ms (FindLiveObjects: 0.028472 ms CreateObjectMapping: 0.026485 ms MarkObjects: 0.323458 ms  DeleteObjects: 0.005297 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.552892 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 0.373781 ms (FindLiveObjects: 0.028472 ms CreateObjectMapping: 0.026816 ms MarkObjects: 0.312533 ms  DeleteObjects: 0.005628 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.580702 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 0.384375 ms (FindLiveObjects: 0.028803 ms CreateObjectMapping: 0.026816 ms MarkObjects: 0.322796 ms  DeleteObjects: 0.005628 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.585337 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 0.396956 ms (FindLiveObjects: 0.030458 ms CreateObjectMapping: 0.027810 ms MarkObjects: 0.332728 ms  DeleteObjects: 0.005628 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.550905 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 0.364180 ms (FindLiveObjects: 0.027810 ms CreateObjectMapping: 0.016553 ms MarkObjects: 0.314519 ms  DeleteObjects: 0.005297 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.823709 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 0.590303 ms (FindLiveObjects: 0.030789 ms CreateObjectMapping: 0.028472 ms MarkObjects: 0.521440 ms  DeleteObjects: 0.009270 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.643606 ms
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 498)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 776.
+Total: 0.349944 ms (FindLiveObjects: 0.054958 ms CreateObjectMapping: 0.048005 ms MarkObjects: 0.239696 ms  DeleteObjects: 0.006621 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at menuscript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+1044     False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+1047     False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+1054     False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+1127     False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 549)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.908795 ms
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 5.307101 ms (FindLiveObjects: 0.042377 ms CreateObjectMapping: 0.050654 ms MarkObjects: 0.404902 ms  DeleteObjects: 4.808836 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.690287 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 0.419800 ms (FindLiveObjects: 0.029465 ms CreateObjectMapping: 0.026154 ms MarkObjects: 0.358221 ms  DeleteObjects: 0.005628 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.797555 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 0.582688 ms (FindLiveObjects: 0.028472 ms CreateObjectMapping: 0.026816 ms MarkObjects: 0.518791 ms  DeleteObjects: 0.007945 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.552892 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 0.412186 ms (FindLiveObjects: 0.030458 ms CreateObjectMapping: 0.027810 ms MarkObjects: 0.348288 ms  DeleteObjects: 0.005297 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.568783 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 0.422780 ms (FindLiveObjects: 0.030458 ms CreateObjectMapping: 0.031783 ms MarkObjects: 0.354579 ms  DeleteObjects: 0.005628 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.847547 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 0.649896 ms (FindLiveObjects: 0.030458 ms CreateObjectMapping: 0.028472 ms MarkObjects: 0.581695 ms  DeleteObjects: 0.008607 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Game..ctor () [0x00000] in <filename unknown>:0 
+  at snimanjeUcitavanje..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for snimanjeUcitavanje
+  at menuscript.ucitajPrethodnu () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
